@@ -1,3 +1,4 @@
+require 'json' # This is a fix for simplecov bugs.
 require 'coveralls'
 Coveralls.wear!
 
